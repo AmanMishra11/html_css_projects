@@ -1,0 +1,20 @@
+#mynavlist{
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+}
+a{
+    color: white;
+}
+.flex_item{
+    display: flex;
+    justify-content: space-between;
+    padding: 0% 3%;
+    width: 100%;
+    background-color: whitesmoke;
+}
+.flex_item h6{
+    color: grey;
+    padding-top: 10%;
+    background-color: whitesmoke;
+}
